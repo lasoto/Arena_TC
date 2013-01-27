@@ -7,9 +7,20 @@ build*/
 *~
 .hg/
 *.kdev*
+<<<<<<< HEAD
+.DS_Store
+CMakeLists.txt.user
 *.bak
+*.patch
+=======
+*.bak
+>>>>>>> 1cb8d83cdb964098be2174f43e986d4f8c4a4bd9
 *.diff
 *.REMOTE.*
 *.BACKUP.*
 *.BASE.*
+<<<<<<< HEAD
 *.LOCAL.*
+=======
+*.LOCAL.*
+>>>>>>> 1cb8d83cdb964098be2174f43e986d4f8c4a4bd9
